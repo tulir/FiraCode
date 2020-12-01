@@ -449,16 +449,16 @@ alignmentZones = (
 "{0, -22}",
 "{-386, -24}"
 );
-ascender = 1800;
+ascender = 1870;
 capHeight = 1374;
 customParameters = (
 {
 name = typoAscender;
-value = 1800;
+value = 1870;
 },
 {
 name = typoDescender;
-value = -600;
+value = -530;
 },
 {
 name = typoLineGap;
@@ -466,7 +466,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1800;
+value = 1870;
 },
 {
 name = winDescent;
@@ -474,11 +474,11 @@ value = 600;
 },
 {
 name = hheaAscender;
-value = 1800;
+value = 1870;
 },
 {
 name = hheaDescender;
-value = -600;
+value = -530;
 },
 {
 name = hheaLineGap;
@@ -489,7 +489,7 @@ name = weightClass;
 value = 300;
 }
 );
-descender = -600;
+descender = -530;
 guideLines = (
 {
 position = "{-708, 2100}";
@@ -514,16 +514,16 @@ alignmentZones = (
 "{0, -40}",
 "{-442, -40}"
 );
-ascender = 1800;
+ascender = 1870;
 capHeight = 1386;
 customParameters = (
 {
 name = typoAscender;
-value = 1800;
+value = 1870;
 },
 {
 name = typoDescender;
-value = -600;
+value = -530;
 },
 {
 name = typoLineGap;
@@ -531,7 +531,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1800;
+value = 1870;
 },
 {
 name = winDescent;
@@ -539,11 +539,11 @@ value = 600;
 },
 {
 name = hheaAscender;
-value = 1800;
+value = 1870;
 },
 {
 name = hheaDescender;
-value = -600;
+value = -530;
 },
 {
 name = hheaLineGap;
@@ -554,7 +554,7 @@ name = weightClass;
 value = 700;
 }
 );
-descender = -600;
+descender = -530;
 horizontalStems = (
 234
 );
@@ -129806,7 +129806,7 @@ weightClass = Bold;
 );
 manufacturer = "Carrois Corporate, Edenspiekermann AG, Nikita Prokopov";
 manufacturerURL = "https://tonsky.me";
-unitsPerEm = 1950;
+unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
 "B67F0F2D-EC95-4CB8-966E-23AE86958A69" = {
